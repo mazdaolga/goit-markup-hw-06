@@ -296,6 +296,7 @@ img {
     margin-bottom: 48px;
 }
 .mobile-link{
+    font-style: normal;
     font-family: "Roboto", sans-serif;
     width: 193px;
     height: 72px;
@@ -854,9 +855,6 @@ img {
     height: 40px;
 }
 
-.container-social-media {
-     margin-bottom: 72px;
-}
 .footer-social-media {
     font-weight: 500;
     font-size: 16px;
